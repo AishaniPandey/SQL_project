@@ -1,5 +1,4 @@
-DnA Project Phase 4
-Team no. : 46
+NINJA BASE SQL PROJECT
 ------------------------
 
 We have implemented the following SQL commands in our Project:
